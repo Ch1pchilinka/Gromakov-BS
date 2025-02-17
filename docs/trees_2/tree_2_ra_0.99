@@ -1,0 +1,346 @@
+digraph {
+	0 [label="X[1] <= 0.526
+samples = 0" shape=ellipse]
+	1 [label="X[1] <= 0.846
+samples = 0" shape=ellipse]
+	2 [label="X[1] <= 0.291
+samples = 0" shape=ellipse]
+	3 [label="X[1] <= 0.136
+samples = 0" shape=ellipse]
+	4 [label="X[1] <= 0.355
+samples = 0" shape=ellipse]
+	5 [label="X[1] <= 0.930
+samples = 1" shape=ellipse]
+	6 [label="X[1] <= 0.651
+samples = 0" shape=ellipse]
+	7 [label="X[1] <= 0.181
+samples = 0" shape=ellipse]
+	8 [label="X[1] <= 0.083
+samples = 0" shape=ellipse]
+	9 [label="X[1] <= 0.998
+samples = 1" shape=ellipse]
+	10 [label="X[1] <= 0.848
+samples = 1" shape=ellipse]
+	11 [label="X[1] <= 0.650
+samples = 0" shape=ellipse]
+	12 [label="X[1] <= 0.824
+samples = 0" shape=ellipse]
+	13 [label="X[1] <= 0.434
+samples = 0" shape=ellipse]
+	14 [label="X[1] <= 0.293
+samples = 0" shape=ellipse]
+	15 [label="X[1] <= 0.847
+samples = 1" shape=ellipse]
+	16 [label="X[1] <= 0.849
+samples = 1" shape=ellipse]
+	17 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	18 [label="X[1] <= 0.872
+samples = 1" shape=ellipse]
+	19 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	20 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	21 [label="X[1] <= 0.800
+samples = 0" shape=ellipse]
+	22 [label="X[1] <= 0.828
+samples = 0" shape=ellipse]
+	23 [label="X[1] <= 0.802
+samples = 1" shape=ellipse]
+	24 [label="X[1] <= 0.769
+samples = 0" shape=ellipse]
+	25 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	26 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	27 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	28 [label="X[1] <= 0.846
+samples = 1" shape=ellipse]
+	29 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	30 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	31 [label="X[1] <= 0.998
+samples = 1" shape=ellipse]
+	32 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	33 [label="X[1] <= 0.998
+samples = 0" shape=ellipse]
+	34 [label="X[1] <= 0.992
+samples = 1" shape=ellipse]
+	35 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	36 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	37 [label="X[1] <= 0.528
+samples = 0" shape=ellipse]
+	38 [label="X[1] <= 0.651
+samples = 0" shape=ellipse]
+	39 [label="X[1] <= 0.832
+samples = 0" shape=ellipse]
+	40 [label="X[1] <= 0.824
+samples = 0" shape=ellipse]
+	41 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	42 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	43 [label="X[1] <= 0.372
+samples = 0" shape=ellipse]
+	44 [label="X[1] <= 0.515
+samples = 0" shape=ellipse]
+	45 [label="X[1] <= 0.520
+samples = 0" shape=ellipse]
+	46 [label="X[1] <= 0.511
+samples = 0" shape=ellipse]
+	47 [label="X[1] <= 0.433
+samples = 0" shape=ellipse]
+	48 [label="X[1] <= 0.359
+samples = 0" shape=ellipse]
+	49 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	50 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	51 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	52 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	53 [label="X[1] <= 0.032
+samples = 0" shape=ellipse]
+	54 [label="X[1] <= 0.131
+samples = 0" shape=ellipse]
+	55 [label="X[1] <= 0.292
+samples = 0" shape=ellipse]
+	56 [label="X[1] <= 0.346
+samples = 0" shape=ellipse]
+	57 [label="X[1] <= 0.139
+samples = 0" shape=ellipse]
+	58 [label="X[1] <= 0.211
+samples = 0" shape=ellipse]
+	59 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	60 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	61 [label="X[1] <= 0.534
+samples = 0" shape=ellipse]
+	62 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	63 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	64 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	65 [label="X[1] <= 0.207
+samples = 0" shape=ellipse]
+	66 [label="X[1] <= 0.219
+samples = 0" shape=ellipse]
+	67 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	68 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	69 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	70 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	71 [label="X[1] <= 0.324
+samples = 0" shape=ellipse]
+	72 [label="X[1] <= 0.353
+samples = 0" shape=ellipse]
+	73 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	74 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	75 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	76 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	77 [label="X[1] <= 0.141
+samples = 0" shape=ellipse]
+	78 [label="X[1] <= 0.138
+samples = 0" shape=ellipse]
+	79 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	80 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	81 [label="X[1] <= 0.292
+samples = 0" shape=ellipse]
+	82 [label="X[1] <= 0.291
+samples = 0" shape=ellipse]
+	83 [label="X[1] <= 0.027
+samples = 0" shape=ellipse]
+	84 [label="X[1] <= 0.036
+samples = 0" shape=ellipse]
+	85 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	86 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	87 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	88 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	89 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	90 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	91 [label="X[1] <= 0.132
+samples = 0" shape=ellipse]
+	92 [label="X[1] <= 0.130
+samples = 0" shape=ellipse]
+	93 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	94 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	95 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	96 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	97 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	98 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	99 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	100 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	101 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	102 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	103 [label="X[1] <= 0.650
+samples = 0" shape=ellipse]
+	104 [label="X[1] <= 0.651
+samples = 0" shape=ellipse]
+	105 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	106 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	107 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	108 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	109 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	110 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	111 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	112 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	113 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	114 [label="Class 0
+Prob(0) = 1.000" shape=box]
+	0 -> 2 [label=True]
+	0 -> 1 [label=False]
+	1 -> 6 [label=True]
+	1 -> 5 [label=False]
+	2 -> 3 [label=True]
+	2 -> 4 [label=False]
+	3 -> 8 [label=True]
+	3 -> 7 [label=False]
+	4 -> 14 [label=True]
+	4 -> 13 [label=False]
+	5 -> 10 [label=True]
+	5 -> 9 [label=False]
+	6 -> 11 [label=True]
+	6 -> 12 [label=False]
+	7 -> 57 [label=True]
+	7 -> 58 [label=False]
+	8 -> 53 [label=True]
+	8 -> 54 [label=False]
+	9 -> 31 [label=True]
+	9 -> 32 [label=False]
+	10 -> 15 [label=True]
+	10 -> 16 [label=False]
+	11 -> 37 [label=True]
+	11 -> 38 [label=False]
+	12 -> 21 [label=True]
+	12 -> 22 [label=False]
+	13 -> 43 [label=True]
+	13 -> 44 [label=False]
+	14 -> 55 [label=True]
+	14 -> 56 [label=False]
+	15 -> 28 [label=True]
+	15 -> 27 [label=False]
+	16 -> 17 [label=True]
+	16 -> 18 [label=False]
+	18 -> 19 [label=True]
+	18 -> 20 [label=False]
+	21 -> 24 [label=True]
+	21 -> 23 [label=False]
+	22 -> 40 [label=True]
+	22 -> 39 [label=False]
+	23 -> 29 [label=True]
+	23 -> 30 [label=False]
+	24 -> 26 [label=True]
+	24 -> 25 [label=False]
+	28 -> 88 [label=True]
+	28 -> 87 [label=False]
+	31 -> 34 [label=True]
+	31 -> 33 [label=False]
+	33 -> 100 [label=True]
+	33 -> 99 [label=False]
+	34 -> 35 [label=True]
+	34 -> 36 [label=False]
+	37 -> 62 [label=True]
+	37 -> 61 [label=False]
+	38 -> 103 [label=True]
+	38 -> 104 [label=False]
+	39 -> 42 [label=True]
+	39 -> 41 [label=False]
+	40 -> 76 [label=True]
+	40 -> 75 [label=False]
+	43 -> 48 [label=True]
+	43 -> 47 [label=False]
+	44 -> 46 [label=True]
+	44 -> 45 [label=False]
+	45 -> 52 [label=True]
+	45 -> 51 [label=False]
+	46 -> 49 [label=True]
+	46 -> 50 [label=False]
+	47 -> 59 [label=True]
+	47 -> 60 [label=False]
+	48 -> 80 [label=True]
+	48 -> 79 [label=False]
+	53 -> 83 [label=True]
+	53 -> 84 [label=False]
+	54 -> 92 [label=True]
+	54 -> 91 [label=False]
+	55 -> 82 [label=True]
+	55 -> 81 [label=False]
+	56 -> 71 [label=True]
+	56 -> 72 [label=False]
+	57 -> 78 [label=True]
+	57 -> 77 [label=False]
+	58 -> 65 [label=True]
+	58 -> 66 [label=False]
+	61 -> 64 [label=True]
+	61 -> 63 [label=False]
+	65 -> 68 [label=True]
+	65 -> 67 [label=False]
+	66 -> 69 [label=True]
+	66 -> 70 [label=False]
+	71 -> 73 [label=True]
+	71 -> 74 [label=False]
+	72 -> 101 [label=True]
+	72 -> 102 [label=False]
+	77 -> 95 [label=True]
+	77 -> 96 [label=False]
+	78 -> 109 [label=True]
+	78 -> 110 [label=False]
+	81 -> 105 [label=True]
+	81 -> 106 [label=False]
+	82 -> 112 [label=True]
+	82 -> 111 [label=False]
+	83 -> 86 [label=True]
+	83 -> 85 [label=False]
+	84 -> 90 [label=True]
+	84 -> 89 [label=False]
+	91 -> 93 [label=True]
+	91 -> 94 [label=False]
+	92 -> 97 [label=True]
+	92 -> 98 [label=False]
+	103 -> 113 [label=True]
+	103 -> 114 [label=False]
+	104 -> 108 [label=True]
+	104 -> 107 [label=False]
+}
